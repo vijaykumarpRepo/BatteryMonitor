@@ -21,6 +21,7 @@ public class MainController {
             boolean isCharging = powerSource.isCharging();
             System.out.println("BatteryLevel- "+batteryLevel);
             System.out.println("isCharging- "+isCharging);
+
         }
 
 
